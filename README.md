@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">I'm Ian from Nairobi, KE <br><br>- 🔭 I’m working as a backend Engineer for a betting site<br>- 📚 I'm currently learning zkp, golang and ML<br>- ⚡ In my free time I will flip tons of pages</p>
 
 ###
 
